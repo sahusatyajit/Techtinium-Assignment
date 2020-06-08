@@ -74,3 +74,14 @@ if __name__=="__main__":
     main(hrs,cap)
     
 #Note:- The alignment of the answers may not be same as of the sample output shown, but answer is correct and I want to inform Techtinium Technologies that in the sample output given by Techtinium Technologies is wrong for Region- China as the total cost is 8570 not 8580, please check it and rectify it.
+#Test case1: Enter total hours: 1
+############ Enter total capacity: 1150
+
+#Test case2: Enter total hours: 5
+############ Enter total capacity: 230
+
+# Test case3: Enter total hours: 24
+############# Enter total capacity: 100
+
+#Test case4: Enter total hours: 12
+############ Enter total capacity: 1100
