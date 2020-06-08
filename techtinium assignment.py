@@ -73,4 +73,4 @@ if __name__=="__main__":
     cap=int(input("Enter total capacity:"))
     main(hrs,cap)
     
-#Note:- The alignment of the answers may not be same as of the sample output shown and in the sample output given by Techtinium is wrong for Region- China as the total cost is 8570 not 8580, please check it and rectify it.
+#Note:- The alignment of the answers may not be same as of the sample output shown, but answer is correct and I want to inform Techtinium Technologies that in the sample output given by Techtinium Technologies is wrong for Region- China as the total cost is 8570 not 8580, please check it and rectify it.
