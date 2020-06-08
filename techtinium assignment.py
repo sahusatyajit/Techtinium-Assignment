@@ -1,4 +1,4 @@
-import pprint
+import pprint               #for printing every value of a dictionary in new line
 def china(hrs,cap,chin,units,key,d):
     i=len(key)-1
     count=0
